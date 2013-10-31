@@ -1,0 +1,35 @@
+
+
+Sesion 1
+
+
+Ejercicio 1
+========================
+
+Descargarse de Ensembl Biomart la anotacion de transcritos para:
+  1) GOs
+  2) OMIM y Orphanet
+  
+Tras limpiar los datos en este ejercicio se tendra que generar mediante un script en python diversas redes en formato SIF:
+  a) Redes de genes y GOs
+  b) Redes de genes y enfermedades
+  c) Visualizacion y estudio de parametros de red con iGraph
+
+  
+Ejercicio 2
+========================
+
+Descargarse el PSMI-TAB de Reactome:
+ 1) Generar la red en formato SIF
+ 2) Visualizacion y estudio de parametros de red con iGraph
+
+
+Ejercicio 3
+========================
+
+En este ejercicio se aprendera a manejar y extraer inforamcion de de redes con libSBML:
+ 1) Descarga, compilacion e instalacion en python
+ 2) Practicas con python
+ 3) Generacion de diversas redes
+ 
+ 

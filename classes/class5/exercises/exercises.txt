@@ -30,6 +30,23 @@ Ejercicio 3
 En este ejercicio se aprendera a manejar y extraer inforamcion de de redes con libSBML:
  1) Descarga, compilacion e instalacion en python
  2) Practicas con python
- 3) Generacion de diversas redes
+ 3) Generar una red en formato SIF a parftir del fichero de Reactome de reactions 
+ 
+ 
+Ejercicio 4
+========================
+En este ejerecio se aprendera a trabajar con WS
+ 1) Visitar la pagina https://code.google.com/p/psicquic
+ 2) Descargarse el PSMI-TAB de IntAct de http://www.ebi.ac.uk/intact/
+ 3) Buscar una lista de genes de enfermedades de http://geneticassociationdb.nih.gov y generar la red en formato SIF usando tanto los WS de IntAct como el fichero descargado
+ 
+ 
+Ejercicio 5
+========================
+Para manejar reades en formato BioPax
+ 1) Instalacion del paquete de r rBiopaxParser
+ 2) Cargar una red de Reactome pequenya como "Escherichia coli.owl"
+ 3) Escribir un pequenyo script en R para extraer en formato SIF todos los pathways
+ 
  
  
